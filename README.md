@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=I%20Hari%20Prasad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Explainable%2C%20Production-Ready%20Intelligence&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hari%20Prasad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Explainable%2C%20Production-Ready%20Intelligence&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Hari+Prasad+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+B.Tech+%40+Karunya+University;Building+Explainable+ML+%7C+LLMs+%7C+Flask+Apps;XGBoost+%7C+SHAP+%7C+NLP+%7C+Python+Enthusiast" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
 class HariPrasad:
